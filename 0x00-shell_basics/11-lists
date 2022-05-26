@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -XUna ./ ../ /boot
+ls -XUna . .. /boot
