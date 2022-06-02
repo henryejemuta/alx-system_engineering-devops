@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c1 | paste -s | tr -d "[:blank:]"
+tr '[A-Za-z]' '[N-ZA-Mn-za-m]'
